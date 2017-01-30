@@ -7,3 +7,4 @@
  1. [Configure SPDocKit database](configuration/configure-spdockit-database.md)
 1. [Installation](installation/)
  1. [Installation Guide](installation/installation-guide.md)
+  1. Installation Guide on Windows 2016
