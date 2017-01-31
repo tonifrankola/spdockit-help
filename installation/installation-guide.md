@@ -5,7 +5,9 @@ This article explains how to install SPDocKit.
 *   **Install** - the product will be installed on your computer.
 *   **Run** - the application will NOT be installed on your server but rather unpacked to a temporary folder. This is a zero footprint run, the application will not make any changes to your server. Some functions like automatic snapshots will not be available in this mode.
 
-![SPDocKit 6 Installation Type](https://www.spdockit.com/wp-content/uploads/2016/02/SPDocKit6-Installation-Type.png) 5\. Choose between Default or Advanced installation.
+![SPDocKit 6 Installation Type](https://www.spdockit.com/wp-content/uploads/2016/02/SPDocKit6-Installation-Type.png) 
+
+5\. Choose between Default or Advanced installation.
 
 *   **Default** – program will be installed with default features. That is, only the SPDocKit application.
 *   **Advanced** – choose which program features you want to be installed. Available additional features are **SPDocKit Collection Service** and **SPDocKit Event Viewer**.
@@ -15,7 +17,11 @@ This article explains how to install SPDocKit.
 *   The **Event Collection Service** crawls the ULS and Windows Event Logs and indexes them. Install this feature on a **server outside of your SharePoint farm** for minimal impact.
 *   The **SPDocKit Event Viewer** is used to search and view the events that the Collection Service has indexed. This is a standalone application which can be run without the SPDocKit application. You can install it on any available server, including the one where SPDocKit is installed. [Read more about SPDocKit Event Collection.](http://www.spdockit.com/support/help/get-to-know-documentation-toolkit/monitoring-screen/)
 
-![SPDocKit Custom Feature Selection](https://www.spdockit.com/wp-content/uploads/2016/10/spdockit-installation-custom-features.png) 7\. Choose the installation folder e.g. **C:\Program Files\Acceleratio\SPDocKit.** Click **Next >** to proceed. ![SPDocKit 6 Destination Folder](https://www.spdockit.com/wp-content/uploads/2016/02/SPDocKit6-Destination-Folder.png) 8\. Select the location where to create application shortcuts and preferred availability option (**Anyone** or **Only me**). Click **Next >** to proceed. ![SPDocKit 6 Installation Folder](https://www.spdockit.com/wp-content/uploads/2016/02/SPDocKit6-Installation-Folder.png) 9\. The installation wizard will unpack your files and you will be able to run the application from: **Start** > **All Programs** > **SPDocKit**. 10. [Configure SPDocKit Database and Snapshot Service](http://www.spdockit.com/support/help/configuration-wizard/) settings.
+![SPDocKit Custom Feature Selection](https://www.spdockit.com/wp-content/uploads/2016/10/spdockit-installation-custom-features.png)
+
+7\. Choose the installation folder e.g. **C:\Program Files\Acceleratio\SPDocKit.** Click **Next >** to proceed. ![SPDocKit 6 Destination Folder](https://www.spdockit.com/wp-content/uploads/2016/02/SPDocKit6-Destination-Folder.png)
+8\. Select the location where to create application shortcuts and preferred availability option (**Anyone** or **Only me**). Click **Next >** to proceed. ![SPDocKit 6 Installation Folder](https://www.spdockit.com/wp-content/uploads/2016/02/SPDocKit6-Installation-Folder.png) 
+9\. The installation wizard will unpack your files and you will be able to run the application from: **Start** > **All Programs** > **SPDocKit**. 10. [Configure SPDocKit Database and Snapshot Service](http://www.spdockit.com/support/help/configuration-wizard/) settings.
 
 * * *
 
